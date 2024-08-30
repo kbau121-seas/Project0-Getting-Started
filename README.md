@@ -13,11 +13,9 @@ Part 2.1.2
 
 Part 2.1.3
 
-![](images/2-1-3)
+![](images/2-1-3.png)
 
 Part 2.1.4
-
-![](images/2-1-4)
 
 Waiting for response on CETS Virtual Lab computers.
 
